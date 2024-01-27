@@ -2,6 +2,7 @@
 Base de datos con equipos de primera y segunda división de los países afiliados a CONMEBOL.
 ## Países
 Incluye todos los equipos de primera y segunda división de cada uno de los países de CONMEBOL*, así como la tabla de ganadores tanto de las dos divisiones.
+
 *La Segunda División de Bolivia no está incluida, por falta de información actualizada.
 ## Competiciones
 Incluye estadísticas y palmarés de las competiciones de clubes CONMEBOL, tanto vigentes como descontinuadas. Las competiciones incluidas son:
